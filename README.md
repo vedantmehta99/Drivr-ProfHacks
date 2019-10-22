@@ -1,6 +1,7 @@
 # Drivr
 
-Drivr is a multifunctional hud that displays important data when driving, like the speed limit, swerve data and concentration data which all get collected and parsed onto the screen. This data can be used for insurance companies to find out information about their client’s speeding trends or reckless driving trends like swerving. The information data is used to prevent car accidents caused by distractions on the road.
-ProfHacks 2016 3rd place winner + Best Quantified Self app
+Multifunctional HUD that displays important data while driving.
 
- Project 
+Data displayed includes: the speed limit, swerve alerts, and concentration data. These data points get collected and parsed and are then displayed on the screen. The information displayed is used to prevent car accidents caused by distractions on the road.
+
+Won 3rd Place and Best Quantified Self at ProfHacks 2016
